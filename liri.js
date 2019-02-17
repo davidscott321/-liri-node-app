@@ -303,7 +303,6 @@ function randomOriginalContent()
 function appendLogText()
 {
   var divider = "\n-----------------------------------------\n";
-  // Append showData and the divider to log.txt, print showData to the console
   fs.appendFile("log.txt",divider+logText,function(error) {
     if (error) throw error;
     
