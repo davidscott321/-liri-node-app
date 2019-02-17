@@ -2,16 +2,16 @@
 
 ## What does this application do?
 
-### This application allows you to search for concerts, movies, and songs by artist name, movie name, and song name respectively. Using the command line, you can type in one of four commands to work with the LIRI Bot. 
+This application allows you to search for concerts, movies, and songs by artist name, movie name, and song name respectively. Using the command line, you can type in one of four commands to work with the LIRI Bot. 
 
 1. node liri.js concert-this <insert artist name>
-    1. The concert-this command will find three concerts for the artist you specify by the closest dates.
+    - The concert-this command will find three concerts for the artist you specify by the closest dates.
 2. node liri.js spotify-this-song <insert song name with or without artist name>
-    1. The spotify-this-song command will find song details based on general keyword text of a song name and artist(s).
+    - The spotify-this-song command will find song details based on general keyword text of a song name and artist(s).
 3. node liri.js movie-this <insert movie name>
-    1. The movie-this command will find movie details based on a movie name you specify.
+    - The movie-this command will find movie details based on a movie name you specify.
 4. node liri.js do-what-it-says
-    1. The do-what-it-says command will randomly generate a command and search content for you.
+    - The do-what-it-says command will randomly generate a command and search content for you.
 
 ## Usefulness
 
