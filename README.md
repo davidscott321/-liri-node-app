@@ -17,6 +17,8 @@ This application allows you to search for concerts, movies, and songs by artist 
 
 This application is useful when you need to find concerts for your favorite artist, movie details for a movie you can't get out of your head, and song detials for that song you can't get out of your head!
 
+If you want to take a look at the searches you have performed or at the results from your past searches, you can check out the log.txt file!
+
 ## Demo
 
 There is a live demo of this application posted on Youtube. Here is the link to that demo: https://youtu.be/k8nZSMifyrc
