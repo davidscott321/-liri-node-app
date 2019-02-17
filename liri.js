@@ -14,7 +14,6 @@ if(parameter)
 {
   if(command==="concert-this")
   {
-    // console.log("\n");
     findConcerts(parameter);
   }
   else if(command==="spotify-this-song")
