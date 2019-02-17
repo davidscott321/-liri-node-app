@@ -303,6 +303,5 @@ function appendLogText()
   var divider = "\n-----------------------------------------\n";
   fs.appendFile("log.txt",divider+logText,function(error) {
     if (error) throw error;
-    
   });
 }
