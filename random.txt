@@ -1,0 +1,6 @@
+spotify-this-song,"I Want it That Way"
+spotify-this-song,"Lose Yourself Eminem"
+spotify-this-song,"Smells Like Teen Spirit Nirvana"
+concert-this,"Ariana Grande"
+concert-this,"The Rolling Stones"
+concert-this,"Shawn Mendes"
